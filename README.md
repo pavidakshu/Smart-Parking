@@ -1,0 +1,1 @@
+The Smart Parking Cloud-Based Booking System is a web application developed to help users easily find, book, and manage parking spaces in real time. The system uses Firebase Cloud services for authentication, database storage, and hosting. Users can register, log in, search nearby parking locations, view available slots, and book parking spaces online
